@@ -32,14 +32,15 @@ author: Rafal Rosa
 theme: minima
 
 header_pages:
-  - about.markdown
-  - portfolio.markdown
+  - about.md
+  - portfolio.md
   - blog.md
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+markdown: kramdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
