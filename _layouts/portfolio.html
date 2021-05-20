@@ -23,9 +23,8 @@ layout: default
             </a>
           </h3>
           {% if post.img %}
-          <div class="image-wrapper" style="background-image: url({{site.baseurl}}/assets/{{post.img}}); ">
-            <!-- <img class="post-thumbnail bg-image" src="{{site.baseurl}}/assets/{{post.img}}"></img> -->
-            <div class="div-thumbnail" style="background-image: url({{site.baseurl}}/assets/{{post.img}});"></div>
+          <div class="image-wrapper" style="background-image: url({{site.baseurl}}/assets/imgs/{{post.img}}); ">
+            <div class="div-thumbnail" style="background-image: url({{site.baseurl}}/assets/imgs/{{post.img}});"></div>
           </div>
           {% endif %}
           {%- if site.show_excerpts -%}

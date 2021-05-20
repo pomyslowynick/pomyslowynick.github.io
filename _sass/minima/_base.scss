@@ -207,10 +207,7 @@ pre {
 /**
  * Icons
  */
-
 .svg-icon {
-    width: 32px;
-    height: 32px;
     display: inline-block;
     fill: #{$grey-color};
     padding-right: 5px;
@@ -221,6 +218,7 @@ pre {
   li + li {
     padding-top: 5px;
   }
+  display: inline-flex;
 }
 
 
