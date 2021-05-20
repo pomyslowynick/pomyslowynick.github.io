@@ -36,6 +36,10 @@ header_pages:
   - portfolio.md
   - blog.md
 
+collections:
+  projects:
+    output: true
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
