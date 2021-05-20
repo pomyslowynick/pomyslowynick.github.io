@@ -212,6 +212,10 @@ pre {
     fill: #{$grey-color};
     padding-right: 5px;
     vertical-align: text-top;
+
+    &:hover {
+      fill: #{$grey-color-light};
+    }
 }
 
 .social-media-list {
