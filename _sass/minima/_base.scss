@@ -2,10 +2,16 @@
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
+p, blockquote, pre,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+}
+
+hr {
+  padding: 0;
+  margin-top: $spacing-unit * 1.5;
+  margin-bottom: $spacing-unit;
 }
 
 

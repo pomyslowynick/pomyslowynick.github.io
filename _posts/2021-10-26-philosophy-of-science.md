@@ -1,4 +1,11 @@
-## Week 1
+---
+layout: post
+title:  "Coursera: Philosophy of Science"
+date:   2021-10-21 19:46:45 +0100
+categories: personal-development science learning 
+---
+
+#### Week 1
 Term scientist has been coined by William Whewell in XIX century. Before that people who studied nature were called "natural philosophers".
 
 The course will examine four great scientific theories/discoveries:
@@ -45,3 +52,16 @@ Online articles:
 * [“A Brief History of the Hypothesis.”](https://www.cell.com/fulltext/S0092-8674(08)00953-7)
 * [“Getting it right.”](https://aeon.co/essays/its-time-for-a-robust-philosophical-defence-of-truth-in-science)
 * [“Scientific Evidence and the EU Court.”](https://www.factcheck.org/2017/07/scientific-evidence-eu-court/)
+
+Observational methods pose a challenge, their objects of interest cannot be manipulated. Such is the case of astrophysics, where huge objects are faintly visible from very far away, but cannot be manipulated or experimented on. No new configurations can be provided.
+
+"Your inner fish" - Interesting book.
+The fact that experts can see things that ordinary people cannot makes it more difficult for phenomena to be publicly observable.
+
+John Stuart Mill has written about the logic of observation based inferences. Mill's methods are used for reasoning about empirical data.
+Outcomes are dependant variables and conditions are independent variables.
+
+Mill's method:
+Make a table of all dependent and independent variables then see what independent variables are by all the cases with the same dependent variables.
+
+Prima facie evidence - starting point for understanding the causes, not a resolution.
