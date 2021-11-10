@@ -7,7 +7,28 @@ categories: self-development computer-science
 
 Tracking my progress in the various courses I have finished, most of them should be ones included in the [OSSU CS Curriculum](https://github.com/ossu/computer-science). 
 I have started N2Tetris on 15th of October 2021. As the time went by I have taken on more and more courses and put in more hours per week, but I will count this date as the start of my journey.
-If I am to follow more or less the college curriculum then I should have 6, ~12 week courses finished by 15th of January.
+If I am to follow more or less the college curriculum then I should have 6, ~12 week courses finished by 1st of February, given that January is gonna be really busy I might need bit more time. The books I've choosen have a lot in them and I want to take my time and process as much as I can.
+
+The Spring semester will start on 1st of March, month of February wil serve as break or eventual closing of the last few courses.
+
+> Worth considering that math courses will take ages to finish in this scenario, should probably do some next "academic year" or during the Summer. 
+
+| Module        | Date Finished | Category | Semester  | Day of week |
+| ------------- |:-------------:|:-------------:| :-----:|-----:|
+| Programming Languages ABC |  3/11 | programming | Winter 2021 |Monday|
+| Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
+| Cloud Computing I&II |  in progress | specialization |Winter 2021 |Saturday|
+| Introduction to Mathematical Thinking |  in progress | maths |Winter 2021 |Tuesday|
+| Computer Networking - A Top-Down Approach |  in progress | networking |Winter 2021 |Thursday|
+| OSTEP |  in progress | operating-systems |Winter 2021 |Saturday|
+| Machine Learning |  --- | data-science | Spring 2022 ||
+| Analysis of Algorithms Lectures |  --- | algorithms |Spring 2022 ||
+| Cloud Computing Applications I&II |  --- | specialization |Spring 2022 ||
+| Calculus 1A: Differentiation  |  --- | maths |Spring 2022 ||
+| Cloud Networking |  --- | networking |Spring 2022 ||
+| Crafting Interpreters |  --- | compilers |Spring 2022 ||
+
+
 
 - [Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 
@@ -23,7 +44,6 @@ Still in week 1 as of 11 Nov 2021, gotta work on it a bit more.
 - Programming Langauges C
 
 In progress, trying to take on a few courses in one "semester", just like I did in college. So I am aiming for more or less 6 courses in 3-4 months.
-
 I would actually count whole PLABC as one course, so I have to restart this one. I have already finished it three years ago, but it's so good I don't mind redoing it.
 
 - [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing)
@@ -34,14 +54,19 @@ Already started the first part [Cloud Computing Concepts, Part 1](https://www.co
 
 - [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) 
 
-I am taking it to warm myself up for the more rigorous math courses in the curriculum. It has always been very difficult for me and I want to work on it but taking it at a slower pace.
+I am taking it to warm myself up for the more rigorous math courses in the curriculum. Math has always been very difficult for me and I want to work on it but to take it at a slower pace in the same time.
 
 [Feel good article](https://qz.com/139453/theres-one-key-difference-between-kids-who-excel-at-math-and-those-who-dont/) making a point that mathematics can be learnt and people aren't inherintly bad or good at it... at least to a certain degree.
 
+- Computer Networking - A Top-Down Approach
+
+Very needed introduction to networking, it would help a ton in my current role as well as benefit my overall understanding of CS. It's probably just a first book in the series of ones I should read for my current role.
+
+- OSTEP Book [Videos](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+14 Lectures, loads of material. Finish that in ~12 weeks might be impossible, but it's worth to try and maybe come back to some of the material later.
 
 Next
-- Computer Networking - A Top-Down Approach
-- OSTEP Book [Videos](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Missing Semester](https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
 - [Fullstack Open](https://fullstackopen.com/en/)
@@ -63,3 +88,12 @@ I was always fascinated by Compilers and this book would be a great introduction
 - [Advanced Programming Techniques in C++](https://www.youtube.com/watch?v=hJE7waQvuTs&list=PLbHYdvrWBMxazo1_B6vhW9gpd1wlkdeEW&index=1)
 
 - [Implementing TCP in Rust](https://www.youtube.com/watch?v=bzja9fQWzdA&list=PLqbS7AVVErFivDY3iKAQk3_VAm8SXwt1X)
+
+- [Cybersecurity Specialization](https://www.coursera.org/specializations/cyber-security)
+
+- [Intel® Network Academy - Network Transformation 101](https://www.coursera.org/learn/network-transformation-101)
+
+- [Intel® Network Academy - Network Transformation 102](https://www.coursera.org/learn/network-transformation-102)
+
+- [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
+
