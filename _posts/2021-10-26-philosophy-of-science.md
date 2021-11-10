@@ -2,7 +2,7 @@
 layout: post
 title:  "Coursera: Philosophy of Science"
 date:   2021-10-21 19:46:45 +0100
-categories: personal-development science learning 
+categories: personal-development science learning coursera
 ---
 
 #### Week 1
@@ -65,3 +65,17 @@ Mill's method:
 Make a table of all dependent and independent variables then see what independent variables are by all the cases with the same dependent variables.
 
 Prima facie evidence - starting point for understanding the causes, not a resolution.
+
+James Woodward - Ideal intervention - experiment where we can change a single variable without interefering with anything else.
+
+All scientific knowledge is grounded in observations - Empiricism.
+Observation != seeing. Observation is reliable detection of some quality in the world, what "is". Objectivity is an important issue with describing what "is".
+
+
+### Week 3
+
+Online articles:
+- [Science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/)
+- [What Thomas Kuhn Really Thought about Scientific "Truth"](https://blogs.scientificamerican.com/cross-check/what-thomas-kuhn-really-thought-about-scientific-truth/)
+- [The Paradox of Karl Popper](https://blogs.scientificamerican.com/cross-check/the-paradox-of-karl-popper/)
+- [Scientific Objectivity](https://plato.stanford.edu/entries/scientific-objectivity/)
