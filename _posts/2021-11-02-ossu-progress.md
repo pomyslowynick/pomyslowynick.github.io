@@ -6,7 +6,7 @@ categories: self-development computer-science
 ---
 
 Tracking my progress in the various courses I have finished, most of them should be ones included in the [OSSU CS Curriculum](https://github.com/ossu/computer-science). 
-I have started N2Tetris on 15th of October 2021. As the time went by I have taken on more and more courses and put in more hours per week, but I will count this date as the start of my journey.
+I have started N2Tetris on 15th of October 2021. ( I have originally planned to do OSSU in 2018, which is the last time I really have been doing the courses in the curriculum) As the time went by I have taken on more and more courses and put in more hours per week, but I will count this date as the start of my journey.
 If I am to follow more or less the college curriculum then I should have 6, ~12 week courses finished by 1st of February, given that January is gonna be really busy I might need bit more time. The books I've choosen have a lot in them and I want to take my time and process as much as I can.
 
 The Spring semester will start on 1st of March, month of February wil serve as break or eventual closing of the last few courses.
@@ -16,19 +16,29 @@ The Spring semester will start on 1st of March, month of February wil serve as b
 | Module        | Date Finished | Category | Semester  | Day of week |
 | ------------- |:-------------:|:-------------:| :-----:|-----:|
 | Programming Languages ABC |  3/11 | programming | Winter 2021 |Monday|
+| Introduction to Mathematical Thinking |  0/9 | maths |Winter 2021 |Tuesday|
+| Computer Networking - A Top-Down Approach |  0/8 chapters | networking |Winter 2021 |Thursday|
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
-| Cloud Computing I&II |  in progress | specialization |Winter 2021 |Saturday|
-| Introduction to Mathematical Thinking |  in progress | maths |Winter 2021 |Tuesday|
-| Computer Networking - A Top-Down Approach |  in progress | networking |Winter 2021 |Thursday|
-| OSTEP |  in progress | operating-systems |Winter 2021 |Saturday|
+| Cloud Computing I&II |  0/9 | specialization |Winter 2021 |Saturday|
+| OSTEP |  0/14 | operating-systems |Winter 2021 |Saturday|
 | Machine Learning |  --- | data-science | Spring 2022 ||
 | Analysis of Algorithms Lectures |  --- | algorithms |Spring 2022 ||
 | Cloud Computing Applications I&II |  --- | specialization |Spring 2022 ||
 | Calculus 1A: Differentiation  |  --- | maths |Spring 2022 ||
 | Cloud Networking |  --- | networking |Spring 2022 ||
-| Crafting Interpreters |  --- | compilers |Spring 2022 ||
+| Crafting Interpreters: Chapters I&II |  --- | compilers |Spring 2022 ||
 
+### Week 0 - 8th to 14th November
 
+I have about ~11 weeks until 1st of February to finish the first semester.
+
+My first week of officially following this schedule will begin on 15th of Novemeber, but the truth is I have done some of the course material already and have a big headstart. At the same time I am working full time so following the academic life 1 to 1 is almost impossible. 
+
+### Week 1 - 15th to 21th November
+In this week I would like to have the first week of each module finished.
+
+Monday -
+I did go over several videos of PLA, haven't finished the assignment or the week. I am in week 4 at the moment, so ahead of the schedule.
 
 - [Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 
@@ -65,6 +75,8 @@ Very needed introduction to networking, it would help a ton in my current role a
 - OSTEP Book [Videos](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 14 Lectures, loads of material. Finish that in ~12 weeks might be impossible, but it's worth to try and maybe come back to some of the material later.
+
+---
 
 Next
 - [Missing Semester](https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
