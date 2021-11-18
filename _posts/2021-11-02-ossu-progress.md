@@ -15,7 +15,7 @@ The Spring semester will start on 1st of March, month of February wil serve as b
 
 | Module        | Date Finished | Category | Semester  | Day of week |
 | ------------- |:-------------:|:-------------:| :-----:|-----:|
-| Programming Languages ABC |  3/11 | programming | Winter 2021 |Monday|
+| Programming Languages ABC |  4/11 | programming | Winter 2021 |Monday|
 | Introduction to Mathematical Thinking |  0/9 | maths |Winter 2021 |Tuesday|
 | Computer Networking - A Top-Down Approach |  0/8 chapters | networking |Winter 2021 |Thursday|
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
@@ -27,6 +27,10 @@ The Spring semester will start on 1st of March, month of February wil serve as b
 | Calculus 1A: Differentiation  |  --- | maths |Spring 2022 ||
 | Cloud Networking |  --- | networking |Spring 2022 ||
 | Crafting Interpreters: Chapters I&II |  --- | compilers |Spring 2022 ||
+| Missing Semester |  --- | tooling |Summer Term 2022 ||
+| Object-Oriented Design && Design Patterns && Software Architecture |  --- | programming |Summer Term 2022 ||
+| Calculus 1B: Integration |  --- | maths |Summer Term 2022 ||
+| Maryland Security Specialization |  --- | security |Summer Term 2022 ||
 
 ### Week 0 - 8th to 14th November
 
@@ -37,9 +41,15 @@ My first week of officially following this schedule will begin on 15th of Noveme
 ### Week 1 - 15th to 21th November
 In this week I would like to have the first week of each module finished.
 
-Monday -
-I did go over several videos of PLA, haven't finished the assignment or the week. I am in week 4 at the moment, so ahead of the schedule.
+Monday -I did go over several videos of PLA, haven't finished the assignment or the week. I am in week 4 at the moment, so ahead of the schedule.
 
+Tuesday - Finished the lectures for the first week and first assignment for math, still have assignment 2 and problem set left to do.
+
+Wednesday - Not officialy a study day, but got some time to spend on PLA and math assignment. Gotta work on my French too, as it is important to retain the information.
+
+Thursday - Started chapter 1 of Computer Networking, it's very approachable and I can already see some terms I have seen but didn't fully understand come up.
+
+---
 - [Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 
 Finished on 1st of November 2021, quite proud I've finally done it.
