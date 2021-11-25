@@ -57,7 +57,7 @@ Those may determine the shortest path from router to a destination.
 
 Two fundamental approaches to moving data in networks for links and switches: circuit switching and packet switching.
 
-Circuit switching is still used by the telcosm although they are slowly moving to the packet switching too.
+Circuit switching is still used by the telcos although they are slowly moving to the packet switching too.
 
 PoP - point-of-presence - group of one or more routers at the same location in the provider's network where customers ISPs can connect into ithe provider ISP. Simply a point where ISPs can connect.
 

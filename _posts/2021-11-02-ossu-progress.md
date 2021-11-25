@@ -15,7 +15,7 @@ The Spring semester will start on 1st of March, month of February wil serve as b
 
 | Module        | Date Finished | Category | Semester  | Day of week |
 | ------------- |:-------------:|:-------------:| :-----:|-----:|
-| Programming Languages ABC |  4/11 | programming | Winter 2021 |Monday|
+| Programming Languages ABC |  7/11 | programming | Winter 2021 |Monday|
 | Introduction to Mathematical Thinking |  0/9 | maths |Winter 2021 |Tuesday|
 | Computer Networking - A Top-Down Approach |  0/8 chapters | networking |Winter 2021 |Thursday|
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
@@ -47,7 +47,23 @@ Tuesday - Finished the lectures for the first week and first assignment for math
 
 Wednesday - Not officialy a study day, but got some time to spend on PLA and math assignment. Gotta work on my French too, as it is important to retain the information.
 
-Thursday - Started chapter 1 of Computer Networking, it's very approachable and I can already see some terms I have seen but didn't fully understand come up.
+Thursday - Started chapter 1 of Computer Networking, it's very approachable and I can already see some terms I have seen but didn't fully understand come up. Finished on page 53.
+
+Friday - Didn't spend any time on N2T, tried to finish the homework for PLA and focused on the French lesson.
+
+Saturday - Finished last few exercises in homework for PLA week 4, it takes way more time than the suggested amount, and I have already solved them before. 
+
+Sunday - day off.
+
+### Week 2 - 22th - 29th Nov
+Monday - Finished PLA, again. Feeling like I understood way more this time around, I definitely remember that I felt lost watching chapter 5 videos in 2018. Good to see there has been some progress :D
+
+Tuesday - Continued on with Math Thinking module, still haven't finished problem set I.
+Lecturer has specified that we are not meant to actually solve all the problems, but I want to give it a bit more time.
+
+Thursday - got hang up on PLB course, I just like it so much I couldn't resist spending the evening solving homework exercises.
+Finished week 6.
+
 
 ---
 - [Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
@@ -60,8 +76,8 @@ In progress (as of 2nd of November), seems much more demanding the the previous 
 Still in week 1 as of 11 Nov 2021, gotta work on it a bit more.
 
 - [Programming Langauges A](https://www.coursera.org/learn/programming-languages)
-- Programming Langauges B
-- Programming Langauges C
+- [Programming Langauges B](https://www.coursera.org/learn/programming-languages-part-b)
+- [Programming Langauges C](https://www.coursera.org/learn/programming-languages-part-c)
 
 In progress, trying to take on a few courses in one "semester", just like I did in college. So I am aiming for more or less 6 courses in 3-4 months.
 I would actually count whole PLABC as one course, so I have to restart this one. I have already finished it three years ago, but it's so good I don't mind redoing it.
@@ -107,7 +123,17 @@ Really want to read this book, it's said to be well written and takes on a uniqu
 
 I was always fascinated by Compilers and this book would be a great introduction to them. It would let me get better understanding of what happens underneath the hood when I compile my code.
 
+- [Program Analysis with Michael Pradel](https://www.youtube.com/playlist?list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
+
+- [Analyzing Software using Deep Learning](https://www.youtube.com/playlist?list=PLBmY8PAxzwIHIKq4tYLws25KqGvUM4iFD)
+
+- [Metadata MOOC](https://www.youtube.com/playlist?list=PLkp3pG2Rd3yqfIn313V32fXG4nng9Tb-H)
+
 - [Advanced Programming Techniques in C++](https://www.youtube.com/watch?v=hJE7waQvuTs&list=PLbHYdvrWBMxazo1_B6vhW9gpd1wlkdeEW&index=1)
+
+- [Theory of Computation](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN)
+
+- [Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 
 - [Implementing TCP in Rust](https://www.youtube.com/watch?v=bzja9fQWzdA&list=PLqbS7AVVErFivDY3iKAQk3_VAm8SXwt1X)
 
@@ -119,3 +145,12 @@ I was always fascinated by Compilers and this book would be a great introduction
 
 - [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
 
+- [ECE 459](https://www.youtube.com/playlist?list=PLFCH6yhq9yAHnjKmB9RLA2Qdk3XhphqrN)
+
+- [ECE 252](https://www.youtube.com/playlist?list=PLFCH6yhq9yAHFaI00FrrgG0dPg8a5SjTJ)
+
+- [Intel Architecture - Security/Hardware Courses](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2%2BArch1001_x86-64_Asm%2B2021_v1/about)
+
+- Maths for CS (MIT)
+
+- [Computation Structures](https://computationstructures.org/index.html)
