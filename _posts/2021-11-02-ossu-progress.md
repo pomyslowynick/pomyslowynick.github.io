@@ -55,7 +55,7 @@ Saturday - Finished last few exercises in homework for PLA week 4, it takes way 
 
 Sunday - day off.
 
-### Week 2 - 22th - 29th Nov
+### Week 2 - 22th - 28th Nov
 Monday - Finished PLA, again. Feeling like I understood way more this time around, I definitely remember that I felt lost watching chapter 5 videos in 2018. Good to see there has been some progress :D
 
 Tuesday - Continued on with Math Thinking module, still haven't finished problem set I.
@@ -63,6 +63,11 @@ Lecturer has specified that we are not meant to actually solve all the problems,
 
 Thursday - got hang up on PLB course, I just like it so much I couldn't resist spending the evening solving homework exercises.
 Finished week 6.
+
+## Week 3 - 29th - 5th Dec
+Monday - Slow start, but got some good work done on PLB, small bit on Mathematical Thinking too.
+
+Tuesday - Finished PLB, man it really was a mindbending exercise to implement the closures! So proud of myself, finally stayed disciplined enough to make it through the whole thing. Started PLC, couldn't keep myself from breaking the schedule. I haven't really kept up with it so far.
 
 
 ---

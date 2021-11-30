@@ -53,3 +53,23 @@ Reformulation: If the building is burning exit through the stairs.
 8.  (2*3*5*7*11*13)+1 = 30031
 
 Lecture 2 goes over logical operators/combinators. I am quite familiar with them from the N2T course and discrete maths module in college.
+
+1. Simplify the following symbolic statements as much as you can, leaving your answer in the standard
+symbolic form. (In case you are not familiar with the notation, I’ll answer the first one for you.)
+- (a) (π > 0) ∧(π < 10) [Answer: 0 < π < 10.]
+- (b) (p ≥7) ∧(p < 12)  [7 <= p < 12]
+- (c) (x > 5) ∧(x < 7)  [5 < x < 7]
+- (d) (x < 4) ∧(x < 6)  [x < 4]
+- (e) (y < 4) ∧(y^2 < 9)[y < 3]
+- (f) (x ≥0) ∧(x ≤0)    [x = 0]
+
+2.  - Pi is bigger than zero and smaller than 10.
+    - p is bigger than or equal to 7 and smaller than 12.
+    - x is bigger than 5 and smaller than 7.
+    - x is smaller than 4.
+    - y is smaller than 3.
+    - x is equal to 0. 
+
+3. φ1 ∧φ2 ∧... ∧φn - I would have to evaluate each expression or prove that they all have to be true.
+4. I only need to prove one of them to be false.
+5. 
