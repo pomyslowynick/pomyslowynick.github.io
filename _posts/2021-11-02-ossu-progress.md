@@ -15,7 +15,7 @@ The Spring semester will start on 1st of March, month of February wil serve as b
 
 | Module        | Date Finished | Category | Semester  | Day of week |
 | ------------- |:-------------:|:-------------:| :-----:|-----:|
-| Programming Languages ABC |  7/11 | programming | Winter 2021 |Monday|
+| Programming Languages ABC |  10/11 | programming | Winter 2021 |Monday|
 | Introduction to Mathematical Thinking |  0/9 | maths |Winter 2021 |Tuesday|
 | Computer Networking - A Top-Down Approach |  0/8 chapters | networking |Winter 2021 |Thursday|
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
@@ -69,6 +69,10 @@ Monday - Slow start, but got some good work done on PLB, small bit on Mathematic
 
 Tuesday - Finished PLB, man it really was a mindbending exercise to implement the closures! So proud of myself, finally stayed disciplined enough to make it through the whole thing. Started PLC, couldn't keep myself from breaking the schedule. I haven't really kept up with it so far.
 
+Thursday - Finished HW6 in week 1 of PLC, was kinda easy actually. I think it's because of my previous experience with OOP, didn't take more than a couple of hours.
+Should probably stick to the schedule more starting next week. Hope to finish PLC this week. 
+As I am in week 3 already and several of the other courses have been stuck on week 1 I think I need to revise my strategy a bit. Specific dedicated study hours could be useful here. Tomorrow I will be working with N2T.
+
 
 ---
 - [Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
@@ -103,7 +107,7 @@ I am taking it to warm myself up for the more rigorous math courses in the curri
 
 Very needed introduction to networking, it would help a ton in my current role as well as benefit my overall understanding of CS. It's probably just a first book in the series of ones I should read for my current role.
 
-- OSTEP Book [Videos](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- OSTEP Book [Videos - 2018](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Videos - 2021](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 14 Lectures, loads of material. Finish that in ~12 weeks might be impossible, but it's worth to try and maybe come back to some of the material later.
 
@@ -159,3 +163,54 @@ I was always fascinated by Compilers and this book would be a great introduction
 - Maths for CS (MIT)
 
 - [Computation Structures](https://computationstructures.org/index.html)
+
+- Randal E. Bryant, David R. O’Hallaron - Computer Systems A Programmer’s Perspective
+
+- Databases - Redbook 
+
+- William Kent, Steve Hoberman - Data and Reality A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World
+
+- [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+
+- The Architecture of Open Source Applications
+
+- Jens Gustedt - Modern C
+
+- Marko Luksa - Kubernetes in Action
+
+- John Ousterhout - A Philosophy of Software Design
+
+- Yuri Shkuro - Mastering Distributed Tracing
+
+- Christopher Allen, Julie Moronuki - Haskell Programming from first principles
+
+- VM Brasseur - Forge your future with open source
+
+- Networking and Kubernetes
+
+- gRPC up and Running
+
+- The Ray Tracer Challenge
+
+- Kubernetes Security and Observability
+
+- The Pragmatic Programmer, 20th Anniversary Edition
+
+- Portable Python Projects
+
+- Python Brain Teasers
+
+- Go Brain Teasers
+
+- Powerful Command-Line Applications in Go
+
+- Help Your Boss Help You
+
+- Web Development with Clojure, Third Edition
+
+- Technical Blogging, Second Edition
+
+- Become an Effective Software Engineering Manager
+
+- Programming Clojure, Third Edition
+
