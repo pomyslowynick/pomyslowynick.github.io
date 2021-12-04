@@ -172,7 +172,7 @@ I was always fascinated by Compilers and this book would be a great introduction
 
 - [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 
-- The Architecture of Open Source Applications
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 - Jens Gustedt - Modern C
 
