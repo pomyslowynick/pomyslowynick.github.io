@@ -107,7 +107,7 @@ I am taking it to warm myself up for the more rigorous math courses in the curri
 
 Very needed introduction to networking, it would help a ton in my current role as well as benefit my overall understanding of CS. It's probably just a first book in the series of ones I should read for my current role.
 
-- OSTEP Book [Videos - 2018](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Videos - 2021](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- OSTEP Book [Videos - 2018](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html), [Videos - 2021](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/Discussion/videos.html), [Schedule](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), [Schedule 2021](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/), [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 14 Lectures, loads of material. Finish that in ~12 weeks might be impossible, but it's worth to try and maybe come back to some of the material later.
 
