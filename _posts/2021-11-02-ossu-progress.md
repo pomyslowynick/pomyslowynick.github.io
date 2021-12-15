@@ -9,18 +9,18 @@ Tracking my progress in the various courses I have finished, most of them should
 I have started N2Tetris on 15th of October 2021. ( I have originally planned to do OSSU in 2018, which is the last time I really have been doing the courses in the curriculum) As the time went by I have taken on more and more courses and put in more hours per week, but I will count this date as the start of my journey.
 If I am to follow more or less the college curriculum then I should have 6, ~12 week courses finished by 1st of February, given that January is gonna be really busy I might need bit more time. The books I've choosen have a lot in them and I want to take my time and process as much as I can.
 
-The Spring semester will start on 1st of March, month of February wil serve as break or eventual closing of the last few courses.
+The Spring semester will start on 1st of March, month of February wil serve as a break or eventual closing of the last few courses.
 
 > Worth considering that math courses will take ages to finish in this scenario, should probably do some next "academic year" or during the Summer. 
 
 | Module        | Date Finished | Category | Semester  | Day of week |
 | ------------- |:-------------:|:-------------:| :-----:|-----:|
-| Programming Languages ABC |  10/11 | programming | Winter 2021 |Monday|
+| Programming Languages ABC |  13 Dec 2021 | programming | Winter 2021 |Monday|
 | Introduction to Mathematical Thinking |  0/9 | maths |Winter 2021 |Tuesday|
 | Computer Networking - A Top-Down Approach |  0/8 chapters | networking |Winter 2021 |Thursday|
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
 | Cloud Computing I&II |  0/9 | specialization |Winter 2021 |Saturday|
-| OSTEP |  0/14 | operating-systems |Winter 2021 |Saturday|
+| OSTEP |  1/14 | operating-systems |Winter 2021 |Saturday|
 | Machine Learning |  --- | data-science | Spring 2022 ||
 | Analysis of Algorithms Lectures |  --- | algorithms |Spring 2022 ||
 | Cloud Computing Applications I&II |  --- | specialization |Spring 2022 ||
@@ -72,6 +72,14 @@ Tuesday - Finished PLB, man it really was a mindbending exercise to implement th
 Thursday - Finished HW6 in week 1 of PLC, was kinda easy actually. I think it's because of my previous experience with OOP, didn't take more than a couple of hours.
 Should probably stick to the schedule more starting next week. Hope to finish PLC this week. 
 As I am in week 3 already and several of the other courses have been stuck on week 1 I think I need to revise my strategy a bit. Specific dedicated study hours could be useful here. Tomorrow I will be working with N2T.
+
+## Week 4 6th - 12th Dec
+Thursday- It's already week 4 and it feels like I am quite behind the schedule. Other responsibilites are making it quite hard to stick to a full time curicullum. I consider a best effort exercise, no matter how much I manage to do it's still worth expanding my knowledge.
+I still have about 7 weeks, I think that besides OSTEP the other courses are managable within this timeframe.
+
+## Week 5 13th - 19th Dec
+Monday - Finished the Programming Langs ABC, what a journey! Learned a ton, yet still fill like a could revise some parts, like the one on subtyping. 
+One day is freed up now to work on N2T or OSTEP, I think as OSTEP takes so much more time I should probably focus on it.
 
 
 ---
