@@ -21,6 +21,7 @@ The Spring semester will start on 1st of March, month of February wil serve as a
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
 | Cloud Computing I&II |  0/9 | specialization |Winter 2021 |Saturday|
 | OSTEP |  1/14 | operating-systems |Winter 2021 |Saturday|
+| Modern C |  4/19 | C language |Winter 2021 |Monday|
 | Machine Learning |  --- | data-science | Spring 2022 ||
 | Analysis of Algorithms Lectures |  --- | algorithms |Spring 2022 ||
 | Cloud Computing Applications I&II |  --- | specialization |Spring 2022 ||
@@ -172,6 +173,8 @@ I was always fascinated by Compilers and this book would be a great introduction
 
 - [Computation Structures](https://computationstructures.org/index.html)
 
+- [Internet History, Technology, and Security - Full Course from Dr. Chuck](https://www.youtube.com/watch?v=47NRaBVxgVM)
+
 - Randal E. Bryant, David R. O’Hallaron - Computer Systems A Programmer’s Perspective
 
 - Databases - Redbook 
@@ -181,8 +184,6 @@ I was always fascinated by Compilers and this book would be a great introduction
 - [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-
-- Jens Gustedt - Modern C
 
 - Marko Luksa - Kubernetes in Action
 
@@ -196,13 +197,25 @@ I was always fascinated by Compilers and this book would be a great introduction
 
 - Networking and Kubernetes
 
-- gRPC up and Running
+- gRPC Up and Running
 
 - The Ray Tracer Challenge
 
 - Kubernetes Security and Observability
 
 - The Pragmatic Programmer, 20th Anniversary Edition
+
+- The Effective Engineer 
+
+- Turing's Cathedral
+
+- Elements of Programming Interviews
+
+- Cracking the coding interview
+
+- Advanced programming in the UNIX environment
+
+- Art of Exploitation
 
 - Portable Python Projects
 

@@ -22,3 +22,7 @@ categories: learning personal-development
 > Might help with my heavy accent.
 
 - [Introduction to Philosophy](https://www.coursera.org/learn/philosophy)
+
+- [Yale Death Course](https://oyc.yale.edu/death/phil-176)
+
+- [France Since 1871](https://oyc.yale.edu/history/hist-276/lecture-1)
