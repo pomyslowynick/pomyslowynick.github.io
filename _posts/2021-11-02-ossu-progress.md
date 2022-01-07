@@ -20,7 +20,7 @@ The Spring semester will start on 1st of March, month of February wil serve as a
 | Computer Networking - A Top-Down Approach |  0/8 chapters | networking |Winter 2021 |Thursday|
 | Nand2Tetris I&II |  6/12 | hardware | Winter 2021 |Friday|
 | Cloud Computing I&II |  0/9 | specialization |Winter 2021 |Saturday|
-| OSTEP |  1/14 | operating-systems |Winter 2021 |Saturday|
+| OSTEP |  2/14 | operating-systems |Winter 2021 |Saturday|
 | Modern C |  4/19 | C language |Winter 2021 |Monday|
 | Machine Learning |  --- | data-science | Spring 2022 ||
 | Analysis of Algorithms Lectures |  --- | algorithms |Spring 2022 ||
@@ -81,6 +81,10 @@ I still have about 7 weeks, I think that besides OSTEP the other courses are man
 ## Week 5 13th - 19th Dec
 Monday - Finished the Programming Langs ABC, what a journey! Learned a ton, yet still fill like a could revise some parts, like the one on subtyping. 
 One day is freed up now to work on N2T or OSTEP, I think as OSTEP takes so much more time I should probably focus on it.
+
+Few weeks later...
+##  Week 8 3rd - 9th Jan
+Continued the work on OSSU, haven't logged it in here. At the moment I am going through OSTEP and trying to find the to finish the other courses.
 
 
 ---
@@ -235,3 +239,8 @@ I was always fascinated by Compilers and this book would be a great introduction
 
 - Programming Clojure, Third Edition
 
+- Modern Software Engineering: Doing What Works to Build Better Software Faster
+
+- The Art of Writing Efficient Programs
+
+- Hands-On Design Patterns with C++ 
