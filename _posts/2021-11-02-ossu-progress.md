@@ -86,7 +86,9 @@ Few weeks later...
 ##  Week 8 3rd - 9th Jan
 Continued the work on OSSU, haven't logged it in here. At the moment I am going through OSTEP and trying to find the to finish the other courses.
 
-
+## Weel 9 10th - 16th Jan
+Monday - The self imposed ***Deadline*** is looming, but since my goal is to grow as an engineer I am happy with any progress. And the last month was quite busy, with all the things related to Christmas.
+At the moment I am more focused on work, outside of work hours I mostly do OSTEP work and related stuff, like parts of the Computer Systems course.
 ---
 - [Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 
@@ -172,6 +174,14 @@ I was always fascinated by Compilers and this book would be a great introduction
 - [ECE 252](https://www.youtube.com/playlist?list=PLFCH6yhq9yAHFaI00FrrgG0dPg8a5SjTJ)
 
 - [Intel Architecture - Security/Hardware Courses](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2%2BArch1001_x86-64_Asm%2B2021_v1/about)
+
+- [Advanced Programming in the UNIX Environment](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ)
+
+- 15-721 Database Systems
+
+- [CS631 - Advanced Programming in the UNIX Environment](https://www.youtube.com/watch?v=BsB9Cg6yJc4&list=PL0qfF8MrJ-jxMfirAdxDs9zIiBg2Wug0z&index=1)
+
+- [CS615 - System Administration](https://www.youtube.com/watch?v=QJL5cNv9dJs&list=PLDadzdouM0VBq9HdgalQkqFKvM7uSaj9L)
 
 - Maths for CS (MIT)
 
