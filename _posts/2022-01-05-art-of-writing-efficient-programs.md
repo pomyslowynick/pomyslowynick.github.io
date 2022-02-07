@@ -9,7 +9,7 @@ My notes on an incredibly interesting book, working my way through it.
 
 ---
 
-Chapter 1 - Introduction
+### Chapter 1 - Introduction
 
 Reasons why performance is increasingly more important are outlined and there is an example of an area in which the computing performance had to be kept at it's bleeding edge: EDA or Electronic Design Automation. Verifying that processor are working according to their specification requires robust test performed by an another processor, most likely the most efficient model of last years one.
 
@@ -36,3 +36,5 @@ Questions:
 3. Performance can be any given metric, for example how well a program performs in throughput. Efficiency is how well a program utilizes underlying resources like a processor or GPU.
 4. Because without performance metrics we don't really know what we should optimize for. And different applications have different end goals.
 5. By comparing the specified metrics before and after optimizing for them and veryfing that program is working as expected.
+
+### Chapter 2
