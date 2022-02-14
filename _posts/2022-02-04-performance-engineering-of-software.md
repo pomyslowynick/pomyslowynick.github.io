@@ -5,6 +5,7 @@ date:   2022-02-04 23:16:12 +0100
 categories: course notes performance hardware benchmarking profiling 
 ---
 
+## 1. Introduction and Matrix Multiplication
 The static current within the CPUs became a bigger problem than the dynamic one, as the leakage currents became a serious issue. This affected the clock frequencies which couldn't be scaled anymore past some point.
 
 Since 2004/5 parallelism in the form of multicore processors was introduced as a way to improve the performance. Clock speed has remained pretty much constant since.
@@ -312,6 +313,92 @@ Hardware has complex pipelines with separate functional units for different oper
 There are separate registers (like XMM) for  floating point registers and other specific values.
 
 Idea to keep the pipeline busy: fetch multiple instructions per cycle.
+Super scalar processor - executes multiple instructions at a time.
 Haswell breaks up x86-64 instructions into simpler operations called micro-ops.
 The fetch and decode stages can emit 4 micro-ops per cycle to the rest of the pipeline.
 They also implement optimizations on micro-op processing, including special cases for common patters like xor %rax, %rax. (in the example it doesn't even use functional unit to zero rax)
+
+Out-of-order-execution
+
+Bypassing - stategy that allows an instruction to read its arguments before they've been stored in a general purpose register.
+
+Eliminating data and name dependencies
+
+Scoreboarding - complex mechanism used to change the register names to eliminate WAR dependencies.
+
+### Branch prediction
+
+Branch misprediction effect is just like stalling, on Haswell misprediction costs about 15-20 cycles.
+
+## C to Assembly
+
+Explanation of LLVM IR, it has smaller set of instructions than x86
+
+IR body function is partitioned into basic blocks, sequences of instructions where control only enters through the first instruction and exits only from the last.
+
+Control-flow instructions induce control flow edges between the basic blocks of a function, creating a control-flow graph (CFG).
+
+`phi` instruction in LLVM IR exists to solve a problem in the representation of loops. It's not a "real" processor instruction, it's just an LLVM construct to solve a problem of static single assignment where each register name is written on at most one line of IR.
+
+LLVM Attributes - tags added to give some additional info to compiler about given operations, it enables more optimization.
+
+Compared to C, all operations in IR are explicit. No implicit conversion, no type casts between two values.
+
+Compiler has to perform three tasks to translate LLVM IR into x86-64 assembly:
+* Select assembly instructions to implement LLVM IR instructions
+* Allocate x86-64 general-purpose registers to hold values
+* Coordinate function calls
+
+### Linux x86-64 calling convention
+
+Assembler directives - refer to and operate on sections of assembly.
+Segment directives - organize the contents of an assembly file into segments.
+```
+.text               identifies text segment
+.bss                identifies bss segment
+.data               identifies data segment
+```
+
+Storage directives - store content into the current segment.
+
+```
+x:  .space 20 0     Allocates 20 bytes at location `x`
+y:  .long 172       Stores the constant 172L at location `y`
+z:  .asciz "6.172"  Store the string "6.172\0" at location `z` 
+    .align 8        Align the next content to an 8-byte boundary
+```
+
+Scope and linkage directives - control linking
+
+```
+.globl fib          Makes "fib" visible to other project files
+```
+
+What exactly ends up in a stack segment?
+- Local variables, function arguments, return address, "intermediate results" a function might want to stash some register state values to use them later when it doesn't have enough registers available.
+
+How do functions in different object files coordinate their use of the stack and of register state?
+Functions abide by a calling convention.
+
+Linux x86-64 calling convention organizes stack into frames, where each function instantiation gets a single frame of its own.
+
+`%rbp` points to the top of the current stack frame, `%rsp` points to the bottom.
+
+I was wondering why is there a set, small number of registers in the CPU, below is great answer from SO.
+
+    > Why does a processor have 32 registers?
+
+    First, not all processor architectures stopped at 32 registers. Almost all the RISC architectures that have 32 registers exposed in the instruction set actually have 32 integer registers and 32 more floating point registers (so 64). (Floating point "add" uses different registers than integer "add".) The SPARC architecture has register windows. On the SPARC you can only access 32 integer registers at a time, but the registers act like a stack and you can push and pop new registers 16 at a time. The Itanium architecture from HP/Intel had 128 integer and 128 floating point registers exposed in the instruction set. Modern GPUs from NVidia, AMD, Intel, ARM and Imagination Technologies, all expose massive numbers of registers in their register files. (I know this to be true of the NVidia and Intel architectures, I am not very familiar with the AMD, ARM and Imagination instruction sets, but I think the register files are large there too.)
+
+    Second, most modern microprocessors implement register renaming to eliminate unnecessary serialization caused by needing to reuse resources, so the underlying physical register files can be larger (96, 128 or 192 registers on some machines.) This (and dynamic scheduling) eliminates some of the need for the compiler to generate so many unique register names, while still providing a larger register file to the scheduler.
+
+    There are two reasons why it might be difficult to further increase the number of registers exposed in the instruction set. First, you need to be able to specify the register identifiers in each instruction. 32 registers require a 5 bit register specifier, so 3-address instructions (common on RISC architectures) spend 15 of the 32 instruction bits just to specify the registers. If you increased that to 6 or 7 bits, then you would have less space to specify opcodes and constants. GPUs and Itanium have much larger instructions. Larger instructions come at a cost: you need to use more instruction memory, so your instruction cache behavior is less ideal.
+
+    The second reason is access time. The larger you make a memory the slower it is to access data from it. (Just in terms of basic physics: the data is stored in 2-dimensional space, so if you are storing n
+    bits, the average distance to a specific bit is O(n−−√).) A register file is just a small multi-ported memory, and one of the constraints on making it larger is that eventually you would need to start clocking your machine slower to accommodate the larger register file. Usually in terms of total performance this is a lose. 
+
+    Source: https://cs.stackexchange.com/a/22591
+
+I will need to rewatch the last segment about calling convention, it makes sense but I don't fully understand it.
+
+Loved the presentation showing the translation of LLVM IR to assembly.
