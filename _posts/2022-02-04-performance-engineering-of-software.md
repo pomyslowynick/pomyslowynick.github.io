@@ -235,7 +235,7 @@ M5 =
 Most modern machines provide popcount instructions which operate much faster than any custom solutions.
 Compier intrinsics might allow one to use them.
 
-## Assembly Language & Computer Architecture
+## 4. Assembly Language & Computer Architecture
 
 Loved the joke about Intel.
 
@@ -330,7 +330,7 @@ Scoreboarding - complex mechanism used to change the register names to eliminate
 
 Branch misprediction effect is just like stalling, on Haswell misprediction costs about 15-20 cycles.
 
-## C to Assembly
+## 5. C to Assembly
 
 Explanation of LLVM IR, it has smaller set of instructions than x86
 
@@ -402,3 +402,29 @@ I was wondering why is there a set, small number of registers in the CPU, below 
 I will need to rewatch the last segment about calling convention, it makes sense but I don't fully understand it.
 
 Loved the presentation showing the translation of LLVM IR to assembly.
+
+## 6. Multicore Programming
+One of the earliest successes of formal verification was proving corectness of cache coherence algorithms.
+
+Invalidation storm - when many processors try to modify the same value it can end up in a performance issue when each of them invalidates the cache.
+
+Coarsening parallel programs - small enough inputs might be faster to execute sequentially
+
+The idea of a thread pool is to have threads available without creating them, as their creation is pretty expensive (about 10^4 cycles to create one).
+
+Argument marshalling - first Fortran compiler in 1958 has done argument marshalling for the programmer.
+
+Pthreads (and Windows equivalent in WinAPI) is a basic Unix library which allows one to create threads which can be executed in parallel. As the lecturer has noted they can be quite error prone and difficult to get right.
+
+Threading Building Blocks - developed by Intel, implemented as C++ library. Programmer specifies tasks rather than threads. Tasks are automatically load balanced across the threads using a work-stealing algorithm inspired by research at MIT.
+
+TBB is simpler than pthreads.
+
+ICC - Intel C++ Compiler (compiles C too)
+
+OpenMP - "Linguistic" solution to parallelism, adding compiler directives in form of pragmas is enough to make use of parallelism.
+
+Cilk - small set of linguistic extensions to C/C++ to support fork-join parallelism. Developed at MIT then bought out by Intel. Support for it from Intel has been dropped in 2017.
+There is an open source version of it still in development.
+
+Cilk keywords grant permission for parallel execution, they do not command parallel execution.
